@@ -1,6 +1,6 @@
 {
-  "homepage": "https://orionna319.github.io/github-actions-demo",
-  "name": "github-actions-demo",
+  "homepage": "https://orionna319.github.io/test-git-actions",
+  "name": "test-git-actions",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
